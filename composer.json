@@ -1,0 +1,14 @@
+{
+    "name": "rnd/auth",
+    "description": "Système d'authentification sans mot de passe initialement conçu pour Laravel",
+    "type": "library",
+    "license": "RND 2021 SUISSE 93MuYi2Bf",
+    "authors": [
+        {
+            "name": "Suisse",
+            "email": "github-93MuYi2Bf@protonmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
