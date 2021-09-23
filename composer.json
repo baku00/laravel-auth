@@ -1,5 +1,5 @@
 {
-    "name": "rnd/auth",
+    "name": "suisse-rnd/auth",
     "description": "Système d'authentification sans mot de passe initialement conçu pour Laravel",
     "type": "library",
     "license": "RND 2021 SUISSE 93MuYi2Bf",
